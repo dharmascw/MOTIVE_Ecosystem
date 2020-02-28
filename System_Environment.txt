@@ -1,0 +1,14 @@
+Variable=Value
+Language=English
+Project_Path=C:/MOTIVE_Projects
+Climate_Path=C:/MOTIVE_Ecosystem/DATA/Climate
+Link_Path=C:/MOTIVE_Ecosystem/DATA/Link
+Species_Path=C:/MOTIVE_Ecosystem/DATA/Species
+GIS_Path=C:/MOTIVE_Ecosystem/DATA/GIS
+Species_File_Index=speciesname_final.csv
+Species_File_Location=shin_specieslocation.csv
+Input_Image=tif
+Output_Image=tif
+Variable_File=variable_lists.csv
+Option_File_English=option_lists_ENG.csv
+Option_File_Korean=option_lists_KOR.csv
